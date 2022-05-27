@@ -185,39 +185,106 @@
   ],
   "keranjangs": [
     {
-      "jumlah": 1,
-      "total_harga": 10000,
+      "jumlah": 4,
+      "total_harga": 20000,
       "product": {
-        "id": 6,
-        "kode": "K-06",
-        "nama": "Bakso",
-        "harga": 10000,
+        "id": 8,
+        "kode": "K-08",
+        "nama": "Pangsit 6 pcs",
+        "harga": 5000,
         "is_ready": true,
-        "gambar": "bakso.jpg",
+        "gambar": "pangsit.jpg",
         "category": {
-          "id": 1,
-          "nama": "Makanan"
+          "id": 3,
+          "nama": "Cemilan"
         }
       },
-      "keterangan": "Bakso Kosongan",
       "id": 1
     },
     {
       "jumlah": 1,
-      "total_harga": 13000,
+      "total_harga": 7000,
       "product": {
-        "id": 5,
-        "kode": "K-05",
-        "nama": "Mie Goreng",
-        "harga": 13000,
+        "id": 12,
+        "kode": "K-012",
+        "nama": "Es Jeruk",
+        "harga": 7000,
         "is_ready": true,
-        "gambar": "mie-goreng.jpg",
+        "gambar": "es-jeruk.jpg",
+        "category": {
+          "id": 2,
+          "nama": "Minuman"
+        }
+      },
+      "id": 2
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 5000,
+      "product": {
+        "id": 13,
+        "kode": "K-013",
+        "nama": "Es Teh",
+        "harga": 5000,
+        "is_ready": true,
+        "gambar": "es-teh.jpg",
+        "category": {
+          "id": 2,
+          "nama": "Minuman"
+        }
+      },
+      "id": 3
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 14000,
+      "product": {
+        "id": 2,
+        "kode": "K-02",
+        "nama": "Nasi Goreng Telur",
+        "harga": 14000,
+        "is_ready": true,
+        "gambar": "nasi-goreng-telor.jpg",
         "category": {
           "id": 1,
           "nama": "Makanan"
         }
       },
-      "id": 2
+      "id": 4
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 15000,
+      "product": {
+        "id": 10,
+        "kode": "K-010",
+        "nama": "Cheese Burger",
+        "harga": 15000,
+        "is_ready": true,
+        "gambar": "cheese-burger.jpg",
+        "category": {
+          "id": 3,
+          "nama": "Cemilan"
+        }
+      },
+      "id": 5
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 5000,
+      "product": {
+        "id": 9,
+        "kode": "K-09",
+        "nama": "Kentang Goreng",
+        "harga": 5000,
+        "is_ready": true,
+        "gambar": "kentang-goreng.jpg",
+        "category": {
+          "id": 3,
+          "nama": "Cemilan"
+        }
+      },
+      "id": 6
     }
   ],
   "pesanans": [
